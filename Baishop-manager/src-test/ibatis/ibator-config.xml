@@ -3,7 +3,7 @@
 <ibatorConfiguration>
   <classPathEntry location="C:\Documents and Settings\Administrator\.m2\repository\mysql\mysql-connector-java\5.1.20\mysql-connector-java-5.1.20.jar" />
   <ibatorContext id="context1">
-    <jdbcConnection driverClass="com.mysql.jdbc.Driver" connectionURL="jdbc:mysql://127.0.0.1/baishop-syslog?useUnicode=true&amp;amp;characterEncoding=utf8&amp;amp;zeroDateTimeBehavior=convertToNull" userId="root" password="mfkjesk" />
+    <jdbcConnection driverClass="com.mysql.jdbc.Driver" connectionURL="jdbc:mysql://127.0.0.1/baishop-syslog?useUnicode=true&amp;amp;characterEncoding=utf8&amp;amp;zeroDateTimeBehavior=convertToNull" userId="root" password="123456" />
     <javaModelGenerator targetPackage="ibatis" targetProject="Baishop-manager/src-test" />
     <sqlMapGenerator targetPackage="ibatis" targetProject="Baishop-manager/src-test" />
     <daoGenerator targetPackage="ibatis" targetProject="Baishop-manager/src-test" type="GENERIC-CI" />
